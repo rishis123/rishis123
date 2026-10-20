@@ -1,50 +1,65 @@
 # Hi, I'm Rishi 👋
 
-CS @ Cornell · SWE Intern @ Apple · Previously Capital One · NYC  
-Building at the intersection of distributed systems and ML.
+**Computer Science @ Cornell (May 2027) · Applied AI/ML @ Microsoft Azure · Distributed Systems @ Apple Pay · NYC**
+
+I want to build reliable backend and distributed systems at scale. I'm also interested in AI and cloud infrastructure, followed by applied AI and reinforcement learning.
+
+I'm looking for Summer 2027 new-grad software engineering roles in backend, distributed systems, or AI/cloud infrastructure, preferably in NYC, the San Francisco Bay Area, or Seattle.
+
+[Portfolio](https://rishis123.github.io/rishishah/) · [LinkedIn](https://www.linkedin.com/in/rishi-shah123/) · [Résumé](https://rishis123.github.io/rishishah/pdfs/Shah_Rishi.pdf) · [rrs244@cornell.edu](mailto:rrs244@cornell.edu)
 
 ---
 
-### 🔨 Currently working on
+## What I'm working on
 
-A reconciliation engine for Apple Pay (Kotlin/Spring Boot, gRPC). 
+At **Microsoft Azure Core**, I work on AI systems for CPU performance intelligence, including large-scale data pipelines, retrieval, and evaluation.
+
+Outside of work, I build projects across backend systems, AI infrastructure, and applied machine learning.
 
 ---
 
-### 💼 Experience
+## Experience
 
-| Company | Role | Impact |
+| Organization | Role | Focus |
 |---|---|---|
-| **Apple** (2026) | SWE Intern, Apple Pay | 99.99% reliability at 2,500 TPS; secured DynamoDB/Kafka/AWS infra |
-| **Capital One** (2025) | SWE Intern | 8 hrs → 5 min ETL migration; built ML mentor-matching app |
-| **HealthTrends.AI** (2024) | Founding ML Engineer | 60% accuracy absenteeism forecasting; presented to C-suite |
+| **Microsoft Azure Core** | Software Engineering Intern | AI incident intelligence, hybrid retrieval, ranking, and evaluation |
+| **Apple Pay** | Software Engineering Intern | Reliable distributed processing, concurrency controls, and payment analytics infrastructure |
+| **Capital One** | Software Engineering Intern | Serverless data pipelines and an ML-powered mentor-matching application |
+| **HealthTrends.AI** | Founding ML Engineer | Time-series forecasting and applied ML product development |
 
 ---
 
-### 🚀 Projects
+## Selected projects
 
-| Project | Description | Award |
-|---|---|---|
-| [**Pixel**](https://github.com/EnesYilmazcode/Pixel) | Multi-agent ad optimizer using DeepGaze visual attention + LangChain/Gemini/Pinecone RAG | 🏆 1st @ Google DeepMind × LangChain Multimodal Hacks |
-| [**WaveFinder**](https://github.com/rishis123/WaveFinder) | Hybrid RAG music recommender — ChromaDB semantic search + TF-IDF, grounded in live Spotify data | — |
-| [**BoardGame Recommender**](https://github.com/rishis123/BoardGameReccomender) | ML recommendation engine — Cornell CS 4300 | — |
-| [**EmbryOS**](https://github.com/rishis123/EmbryOSTeam) | Custom operating system in C | — |
+### [Pixel](https://github.com/EnesYilmazcode/Pixel)
+**Winner, Google DeepMind × LangChain Multimodal Hackathon**
 
----
+A multi-agent platform for optimizing ad creative. Pixel combines visual-attention modeling, competitor retrieval through a Pinecone RAG index, and Gemini-generated variants scored by predicted attention lift.
 
-### 🛠️ Tech Stack
+### [WaveFinder](https://github.com/rishis123/WaveFinder)
 
-**Languages:** Python · Java · Kotlin · TypeScript · C · OCaml · SQL  
-**Frameworks:** Spring Boot · React/Next.js · FastAPI · PostgreSQL · Scikit-learn · LangChain  
-**Infra/Tools:** AWS (Lambda, Fargate, DynamoDB, S3, Batch) · Kafka · Docker · gRPC · Pinecone · Datadog  
+A hybrid music recommendation engine that routes natural-language queries between ChromaDB semantic search and TF-IDF plus popularity-weighted ranking over live Spotify data.
+
+### [EmbryOS](https://github.com/rishis123/EmbryOSTeam)
+
+A custom operating system built in C, exploring low-level systems programming, memory management, and operating-system design.
 
 ---
 
-### 📊 GitHub Stats
+## Interests
 
-![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishis123&show_icons=true&hide_border=true&theme=default)
+1. **Backend and distributed systems**
+2. **AI and cloud infrastructure**
+3. **Applied AI and reinforcement learning**
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=github&logoColor=white)](https://rishis123.github.io/rishishah/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-shah123)
+## Tools I use
+
+**Languages:** Python, Java, Kotlin, TypeScript, SQL, C<br>
+**Backend and infrastructure:** Spring Boot, FastAPI, PostgreSQL, AWS, Azure, Kafka, Docker, gRPC<br>
+**AI/ML:** scikit-learn, LangChain, Pinecone, ChromaDB, Gemini
+
+---
+
+I'm always interested in conversations about backend systems, infrastructure, and ambitious technical projects.
