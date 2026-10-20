@@ -10,6 +10,14 @@ I'm looking for Summer 2027 new-grad software engineering roles in backend, dist
 
 ---
 
+## Interests
+
+- **Backend and distributed systems** — I love designing reliable systems that stay correct under scale, concurrency, and failure.
+- **AI and cloud infrastructure** — I enjoy building the platforms and tooling that make intelligent systems dependable in production.
+- **Applied AI and reinforcement learning** — I like turning research ideas into systems that learn, adapt, and solve real problems.
+
+---
+
 ## What I'm working on
 
 At **Microsoft Azure Core**, I work on AI systems for CPU performance intelligence, including large-scale data pipelines, retrieval, and evaluation.
@@ -43,14 +51,6 @@ A hybrid music recommendation engine that routes natural-language queries betwee
 ### [EmbryOS](https://github.com/rishis123/EmbryOSTeam)
 
 A custom operating system built in C, exploring low-level systems programming, memory management, and operating-system design.
-
----
-
-## Interests
-
-1. **Backend and distributed systems**
-2. **AI and cloud infrastructure**
-3. **Applied AI and reinforcement learning**
 
 ---
 
