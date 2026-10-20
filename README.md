@@ -20,7 +20,7 @@ I'm looking for Summer 2027 new-grad software engineering roles in backend, dist
 
 ## What I'm working on
 
-At **Microsoft Azure Core**, I work on AI systems for CPU performance intelligence, including large-scale data pipelines, retrieval, and evaluation.
+At **Microsoft Azure Core**, I work on AI systems for CPU performance intelligence, including large-scale data pipelines, retrieval, semantic search, and evaluation.
 
 Outside of work, I build projects across backend systems, AI infrastructure, and applied machine learning.
 
