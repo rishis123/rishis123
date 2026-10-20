@@ -2,7 +2,7 @@
 
 **Computer Science @ Cornell (May 2027) · Applied AI/ML @ Microsoft Azure · Distributed Systems @ Apple Pay · NYC**
 
-I want to build reliable backend and distributed systems at scale. I'm also interested in AI and cloud infrastructure, followed by applied AI and reinforcement learning.
+I want to build reliable backend and distributed systems at scale. I'm also interested in AI and cloud infrastructure, as well as applied AI and reinforcement learning.
 
 I'm looking for Summer 2027 new-grad software engineering roles in backend, distributed systems, or AI/cloud infrastructure, preferably in NYC, the San Francisco Bay Area, or Seattle.
 
