@@ -12,7 +12,7 @@ I'm looking for Summer 2027 new-grad software engineering roles in backend, dist
 
 ## Interests
 
-- **Backend and distributed systems** — I love designing reliable systems that stay correct under scale, concurrency, and failure. This was my day to day at Apple Pay, during which I learned how to architect solutions grounded in reliability, privacy, and security at tremendous data volume -- 2500 TPS from Apple Cash.
+- **Backend and distributed systems** — I love designing reliable systems that stay correct under scale, concurrency, and failure. This was my day to day at Apple Pay, during which I learned how to architect solutions grounded in reliability, privacy, and security at tremendous data volume -- 2500 TPS from Apple Cash. I've also delved into the ETL space at Capital One, and leveraged cloud technologies (AWS/Azure) at both internships to productionize my software.
 - **AI and cloud infrastructure** — I enjoy building the platforms and tooling that make intelligent systems dependable in production. This was my work at Microsoft Azure -- how do you take a massive incident pipeline of >2B incidences a year from every Fortune 500, and create a relevance sieve for the CPU performance team?
 - **Applied AI and reinforcement learning** — I like turning research ideas into systems that learn, adapt, and solve real problems. I've explored this at Microsoft, and through Cornell's RL seminar reading papers weekly this summer, and I'd love to learn more!
 
