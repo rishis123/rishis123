@@ -57,7 +57,7 @@ A custom operating system built in C, exploring low-level systems programming, m
 ## Tools I use
 
 **Languages:** Python, Java, Kotlin, TypeScript, SQL, C<br>
-**Backend and infrastructure:** Spring Boot, FastAPI, PostgreSQL, AWS, Azure, Kafka, Docker, gRPC<br>
+**Backend and distributed systems:** Spring Boot, FastAPI, PostgreSQL, DynamoDB, Kafka, gRPC, Kubernetes, Docker, AWS, Azure, Datadog<br>
 **AI/ML systems:** LLM agents, RAG, hybrid retrieval, semantic search, vector databases, and evaluation pipelines (LangChain, Gemini, Pinecone, ChromaDB)
 
 ---
